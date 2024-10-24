@@ -1,0 +1,9 @@
+
+{
+    "train_problem":          "arc-agi_training_challenges.json",
+    "train_target_goal":      "arc-agi_training_solutions.json",
+    "evaluation_problem":     "arc-agi_evaluation_challenges.json",
+    "evaluation_target_goal": "arc-agi_evaluation_solutions.json",
+    "test_problem":           "arc-agi_test_challenges.json",
+    "predicted_target_goal":  "arc-agi_test_challenges.json"
+}

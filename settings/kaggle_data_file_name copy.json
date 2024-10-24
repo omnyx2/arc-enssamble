@@ -1,0 +1,9 @@
+
+{
+    "train_problem":          "/kaggle/input/arc-prize-2024/arc-agi_training_challenges.json",
+    "train_target_goal":      "/kaggle/input/arc-prize-2024/arc-agi_training_solutions.json",
+    "evaluation_problem":     "/kaggle/input/arc-prize-2024/arc-agi_evaluation_challenges.json",
+    "evaluation_target_goal": "/kaggle/input/arc-prize-2024/arc-agi_evaluation_solutions.json",
+    "test_problem":           "/kaggle/input/arc-prize-2024/arc-agi_test_challenges.json",
+    "predicted_target_goal":  "/kaggle/input/arc-prize-2024/arc-agi_test_challenges.json"
+}
