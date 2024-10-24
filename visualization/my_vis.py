@@ -46,7 +46,7 @@ class ARCPlottor:
             self.plot_arcs(data, arc_id)
     
     def plot_arc(self, x, arc_id):
-        plt.imshow(np.array(x), cmap=cmap, norm=norm)
+        plt.imshow(np.array(x), cmap=self.cmap, norm=self.norm)
         axis[0].set_title(arc_id) 
         plt.show()
         
