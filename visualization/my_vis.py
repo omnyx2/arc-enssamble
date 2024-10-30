@@ -47,7 +47,7 @@ class ARCPlottor:
     
     def plot_arc(self, x, arc_id):
         plt.imshow(np.array(x), cmap=self.cmap, norm=self.norm)
-        axis[0].set_title(arc_id) 
+        plt.gca().set_title(arc_id)  # Set the title for the current axis
         plt.show()
         
     def plot_arcs(self, arcs, arc_id):

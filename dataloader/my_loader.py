@@ -22,7 +22,7 @@ class MyDataLoader:
             self.cur_idx = self.cur_problem.keys()
             print("{} data is set".format(data_mode))
             
-        if data_mode == "evalidation":
+        if data_mode == "evaluation":
             self.cur_problem     = self.arcprize["evaluation_problem"]
             self.cur_target_goal = self.arcprize["evaluation_target_goal"]
             self.cur_idx = self.cur_problem.keys()
@@ -33,7 +33,6 @@ class MyDataLoader:
             self.cur_target_goal = self.arcprize["predicted_target_goal"]
             self.cur_idx = self.cur_problem.keys()
             print("{} data is set".format(data_mode))
-    
     def get_data(self):
         return {
             "train:" : self.cur_problem,
