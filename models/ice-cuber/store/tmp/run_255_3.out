@@ -1,0 +1,93 @@
+Running only task # 255
+Using max depth 3
+ |                                        | 0 / 419 (0.0%)Function count: 142
+0.133103
+0.142436
+0.116285
+0.123229
+0.087038
+0.0923275
+0.120438
+0.127744
+0.13598
+0.144981
+ 23.6 ±  0.0 ms - Piece loop time
+ 41.3 ± 36.4 ms - Set time
+ 18.4 ±  1.7 ms - Child looking time
+0.129757
+0.139314
+0.263739
+894.7 ±  0.0 ms - Total time
+722.6 ±  0.0 ms - Build f time
+ 31.8 ±  1.1 ms - Apply f time
+577.9 ±  9.2 ms - Real f time 
+161.2 ±  4.4 ms - Add time
+  4.4 ±  0.2 ms - Find child
+  6.4 ±  0.3 ms - Add child
+151.5 ±  1.2 ms - Hash
+ 98.9 ± 37.1 ms - Map
+ 41.5 ±  0.8 ms - getState
+0.117978
+0.124725
+0.243296
+1138.0 ±  0.0 ms - Total time
+840.6 ±  0.0 ms - Build f time
+ 48.8 ±  1.2 ms - Apply f time
+681.7 ±  9.6 ms - Real f time 
+218.1 ±  4.6 ms - Add time
+  8.1 ±  0.3 ms - Find child
+ 11.2 ±  0.4 ms - Add child
+198.4 ±  1.3 ms - Hash
+120.8 ± 37.2 ms - Map
+ 68.3 ±  0.9 ms - getState
+0.0881321
+0.092916
+0.158854
+1296.9 ±  0.0 ms - Total time
+928.7 ±  0.0 ms - Build f time
+ 59.5 ±  1.2 ms - Apply f time
+758.0 ±  9.7 ms - Real f time 
+254.5 ±  4.7 ms - Add time
+ 11.0 ±  0.4 ms - Find child
+ 15.0 ±  0.4 ms - Add child
+231.6 ±  1.4 ms - Hash
+137.5 ± 37.2 ms - Map
+ 83.8 ±  1.0 ms - getState
+0.118784
+0.126508
+0.236048
+1533.0 ±  0.0 ms - Total time
+1047.5 ±  0.0 ms - Build f time
+ 76.0 ±  1.3 ms - Apply f time
+861.4 ± 10.0 ms - Real f time 
+310.0 ±  4.9 ms - Add time
+ 14.4 ±  0.4 ms - Find child
+ 19.5 ±  0.5 ms - Add child
+280.2 ±  1.7 ms - Hash
+159.1 ± 37.3 ms - Map
+109.6 ±  1.1 ms - getState
+0.136301
+0.145109
+0.268826
+1801.9 ±  0.0 ms - Total time
+1183.8 ±  0.0 ms - Build f time
+ 94.3 ±  1.6 ms - Apply f time
+975.4 ± 10.2 ms - Real f time 
+374.9 ±  5.0 ms - Add time
+ 18.0 ±  0.5 ms - Find child
+ 24.0 ±  0.6 ms - Add child
+337.3 ±  1.9 ms - Hash
+179.5 ± 37.3 ms - Map
+140.3 ±  1.8 ms - getState
+Dag sizes: 108472 109278 89042 102617 116627 
+brutePieces time: 1.17999
+ 63.1 ±  0.0 ms - Piece loop time
+ 58.8 ± 41.8 ms - Set time
+ 43.8 ±  1.1 ms - Child looking time
+Nodes:  526036
+Pieces: 87271
+makePieces time: 0.0642521
+Memory: 11.5 + 18.5 + 16.8 + 29.4 + 4.2 MB
+ 29.7 ±  1.0 ms - Greedy fill time
+composePieces time: 1.84053
+                                                                                

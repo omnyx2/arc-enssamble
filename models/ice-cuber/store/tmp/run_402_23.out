@@ -1,0 +1,213 @@
+Running only task # 402
+Using max depth 23
+ |                                        | 0 / 419 (0.0%)Function count: 142
+0.0617491
+0.0642689
+0.0554888
+0.0579357
+0.0618914
+0.064654
+0.0525313
+0.0552342
+0.0560638
+0.0583769
+0.04816
+0.0504712
+0.0485115
+0.0508384
+0.0537472
+0.0561367
+0.0535246
+0.0572246
+0.0593329
+0.062858
+0.0662577
+0.0687694
+0.0569255
+0.0593037
+0.0556483
+0.0581028
+ 42.1 ±  0.0 ms - Piece loop time
+ 42.4 ± 37.4 ms - Set time
+ 33.5 ±  2.1 ms - Child looking time
+0.050744
+0.0529682
+0.0633587
+827.9 ±  0.0 ms - Total time
+780.6 ±  0.0 ms - Build f time
+ 13.9 ±  0.4 ms - Apply f time
+647.0 ±  5.0 ms - Real f time 
+106.7 ±  2.1 ms - Add time
+  2.8 ±  0.5 ms - Find child
+  2.8 ±  0.2 ms - Add child
+137.9 ±  1.2 ms - Hash
+105.7 ± 38.5 ms - Map
+ 16.4 ±  0.4 ms - getState
+0.0611952
+0.0650233
+0.0777353
+905.7 ±  0.0 ms - Total time
+841.8 ±  0.0 ms - Build f time
+ 18.1 ±  0.5 ms - Apply f time
+699.0 ±  5.1 ms - Real f time 
+117.9 ±  2.2 ms - Add time
+  3.8 ±  0.5 ms - Find child
+  4.2 ±  0.2 ms - Add child
+154.2 ±  1.2 ms - Hash
+114.1 ± 38.5 ms - Map
+ 20.9 ±  0.4 ms - getState
+0.055633
+0.0580998
+0.0725149
+978.2 ±  0.0 ms - Total time
+897.4 ±  0.0 ms - Build f time
+ 22.1 ±  0.6 ms - Apply f time
+747.8 ±  5.2 ms - Real f time 
+127.3 ±  2.3 ms - Add time
+  4.8 ±  0.5 ms - Find child
+  5.7 ±  0.3 ms - Add child
+168.5 ±  1.3 ms - Hash
+121.6 ± 38.5 ms - Map
+ 25.6 ±  0.5 ms - getState
+0.0582577
+0.0608126
+0.0722848
+1050.6 ±  0.0 ms - Total time
+955.7 ±  0.0 ms - Build f time
+ 25.3 ±  0.6 ms - Apply f time
+798.7 ±  5.4 ms - Real f time 
+137.4 ±  2.3 ms - Add time
+  5.6 ±  0.5 ms - Find child
+  6.9 ±  0.3 ms - Add child
+182.5 ±  1.3 ms - Hash
+128.0 ± 38.5 ms - Map
+ 29.1 ±  0.5 ms - getState
+0.0627912
+0.0652128
+0.0787673
+1129.4 ±  0.0 ms - Total time
+1018.4 ±  0.0 ms - Build f time
+ 29.1 ±  0.6 ms - Apply f time
+852.0 ±  5.6 ms - Real f time 
+148.1 ±  2.3 ms - Add time
+  6.7 ±  0.5 ms - Find child
+  8.4 ±  0.3 ms - Add child
+197.5 ±  1.4 ms - Hash
+135.9 ± 38.5 ms - Map
+ 33.0 ±  0.5 ms - getState
+0.0545952
+0.058087
+0.072165
+1201.6 ±  0.0 ms - Total time
+1073.0 ±  0.0 ms - Build f time
+ 33.7 ±  0.7 ms - Apply f time
+899.4 ±  5.7 ms - Real f time 
+158.3 ±  2.4 ms - Add time
+  7.6 ±  0.5 ms - Find child
+ 10.0 ±  0.4 ms - Add child
+211.8 ±  1.4 ms - Hash
+143.2 ± 38.5 ms - Map
+ 38.5 ±  1.2 ms - getState
+0.0519389
+0.0543204
+0.0652795
+1266.9 ±  0.0 ms - Total time
+1125.0 ±  0.0 ms - Build f time
+ 36.7 ±  0.7 ms - Apply f time
+944.8 ±  5.8 ms - Real f time 
+166.9 ±  2.4 ms - Add time
+  9.4 ±  1.0 ms - Find child
+ 11.0 ±  0.4 ms - Add child
+225.3 ±  1.5 ms - Hash
+149.3 ± 38.5 ms - Map
+ 41.6 ±  1.2 ms - getState
+0.0623474
+0.0646814
+0.0767777
+1343.7 ±  0.0 ms - Total time
+1187.3 ±  0.0 ms - Build f time
+ 39.8 ±  0.7 ms - Apply f time
+999.2 ±  6.8 ms - Real f time 
+177.3 ±  2.5 ms - Add time
+ 10.2 ±  1.0 ms - Find child
+ 12.1 ±  0.4 ms - Add child
+241.0 ±  1.5 ms - Hash
+157.2 ± 38.4 ms - Map
+ 45.4 ±  1.2 ms - getState
+0.0574916
+0.0600843
+0.0714711
+1415.2 ±  0.0 ms - Total time
+1244.8 ±  0.0 ms - Build f time
+ 43.3 ±  0.9 ms - Apply f time
+1049.6 ±  6.9 ms - Real f time 
+190.8 ±  3.7 ms - Add time
+ 11.3 ±  1.0 ms - Find child
+ 13.2 ±  0.4 ms - Add child
+254.5 ±  1.6 ms - Hash
+163.9 ± 38.5 ms - Map
+ 49.2 ±  1.2 ms - getState
+0.0532301
+0.0558532
+0.0676585
+1482.9 ±  0.0 ms - Total time
+1298.0 ±  0.0 ms - Build f time
+ 46.5 ±  0.9 ms - Apply f time
+1093.2 ±  7.0 ms - Real f time 
+200.5 ±  3.7 ms - Add time
+ 12.2 ±  1.0 ms - Find child
+ 14.2 ±  0.4 ms - Add child
+273.0 ±  5.4 ms - Hash
+171.4 ± 38.5 ms - Map
+ 52.5 ±  1.3 ms - getState
+0.0579919
+0.0603329
+0.075524
+1558.5 ±  0.0 ms - Total time
+1356.0 ±  0.0 ms - Build f time
+ 50.6 ±  0.9 ms - Apply f time
+1141.8 ±  7.1 ms - Real f time 
+211.0 ±  3.7 ms - Add time
+ 13.2 ±  1.1 ms - Find child
+ 15.8 ±  0.4 ms - Add child
+289.0 ±  5.5 ms - Hash
+181.9 ± 38.6 ms - Map
+ 57.0 ±  1.3 ms - getState
+0.0566635
+0.0590277
+0.0726835
+1631.2 ±  0.0 ms - Total time
+1412.7 ±  0.0 ms - Build f time
+ 54.1 ±  0.9 ms - Apply f time
+1193.4 ±  7.2 ms - Real f time 
+220.9 ±  3.8 ms - Add time
+ 14.3 ±  1.1 ms - Find child
+ 17.4 ±  0.5 ms - Add child
+303.0 ±  5.5 ms - Hash
+188.6 ± 38.6 ms - Map
+ 60.9 ±  1.3 ms - getState
+0.0593993
+0.0617832
+0.0756478
+1706.9 ±  0.0 ms - Total time
+1472.1 ±  0.0 ms - Build f time
+ 57.7 ±  1.0 ms - Apply f time
+1250.1 ±  8.9 ms - Real f time 
+232.0 ±  3.8 ms - Add time
+ 15.4 ±  1.1 ms - Find child
+ 18.7 ±  0.5 ms - Add child
+318.8 ±  5.5 ms - Hash
+195.7 ± 38.5 ms - Map
+ 65.1 ±  1.3 ms - getState
+Dag sizes: 21537 25011 24232 24308 24972 21946 21537 25018 24232 24298 24965 21937 25312 
+brutePieces time: 0.952387
+ 73.1 ±  0.0 ms - Piece loop time
+ 61.4 ± 54.5 ms - Set time
+ 56.2 ±  2.8 ms - Child looking time
+Nodes:  309305
+Pieces: 22144
+makePieces time: 0.0745828
+Memory: 3.6 + 24.0 + 9.9 + 59.5 + 2.8 MB
+ 25.3 ±  0.9 ms - Greedy fill time
+composePieces time: 0.796942
+                                                                                

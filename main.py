@@ -48,8 +48,6 @@ with open("/home/hyunseok/enssamble/settings/kaggle_data_file_name.json",'r') as
 plotter = ARCPlottor()
 # plotter.check_type(data.cur_problem["890034e9"],"890034e9")
 
-
-
 # 경로 셋팅
 BASE_FOLDER = '/home/hyunseok/enssamble/data/kaggle/'
 file_list = [
