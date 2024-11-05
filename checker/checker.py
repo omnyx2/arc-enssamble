@@ -23,12 +23,12 @@ def ganswer_answer(ganswer):
 
     return answer
 
+import inspect
 # only my data loader
 def depency_inject_funcs(dataloader, mode, mainfunc, check_funcs_with_args, *args, **kwargs):
 
     mainfunc_params = inspect.signature(mainfunc).parameters
     mainfunc_arg_names = mainfunc_params.keys()
-
     dataloader.cur_data_mode(mode)
     result = {}
     
@@ -45,7 +45,8 @@ def depency_inject_funcs(dataloader, mode, mainfunc, check_funcs_with_args, *arg
                     main_args.append(task)
                 if 'test_input' in mainfunc_arg_names:
                     main_args.append(test_input)
- 
+                if 'g' in mainfunc_arg_names:
+                    main_args.append(test_input)
                 # Call mainfunc with only the required arguments
                 ganswer = mainfunc(*main_args)
                 
@@ -55,4 +56,3 @@ def depency_inject_funcs(dataloader, mode, mainfunc, check_funcs_with_args, *arg
                     result[task_id] = prn
 
     return result
-
